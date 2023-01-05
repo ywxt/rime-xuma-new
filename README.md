@@ -24,6 +24,10 @@
 
 - 選重： `；`（分號）次選，`'`（引號）三選。
 
+- 繁入簡出：快捷鍵 `Ctrl + Shift + Space` ，默認關閉。
+
+- 外文過濾：只保留漢字/不過濾，默認關閉。
+
 - 字根分佈圖：*此方案簡碼設置與字根圖不同，使用時請注意*。
    ![字根分佈圖](https://github.com/forFudan/xuma/blob/main/resources/%E5%BE%90%E7%A2%BC%E5%AD%97%E6%A0%B9%E9%8D%B5%E4%BD%8D%E5%9C%96ForFudan%E8%AA%BF%E6%95%B4.jpg?raw=true)
   

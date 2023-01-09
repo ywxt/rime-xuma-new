@@ -42,6 +42,7 @@
 ## Q&A
 
 1. Q： 爲什麼部署不成功？
+
    A： 確保你已經有朙月拼音和五筆劃方案，部分發行版（例如同文輸入法）並不內置，需要手動下載。 [朙月拼音](https://github.com/rime/rime-luna-pinyin) [五筆畫](https://github.com/rime/rime-stroke)
 
 2. Q： 爲什麼部分功能無法使用（如字集過濾）？
@@ -49,10 +50,12 @@
    A： 確保你的發行版支持lua插件。比如部分發行版 `fcitx5-rime` 默認不含 `lua` 插件，需要手動安裝。
 
 3. Q： 如何刪除用戶自造詞？
+
    A:  
       > 删除特定用户词：输入该词编码，移动光标选中该词，敲删词键 Ctrl + Delete 或 Shift + Delete （Mac OS 用 Shift + Fn + Delete），默认还绑定了 Ctrl + K。删除整个用户词典：先退出输入法程序或算法服务， 然后删除用户目录下的 huma_trad.userdb 目录，再启动输入法。
 
 4. Q: 與[forFudan/xuma](https://github.com/forFudan/xuma)碼表不同之處
+
    A:
       - 去除大部分字根字的特碼，比如 `訁(Yvv)` ，恢復爲 `Yv` 。但是保留部分與高頻字衝突的特碼。詳見末表。
       - 去除碼表中的符號，如需使用，可以通過符號方式輸入（如`/jg`）。

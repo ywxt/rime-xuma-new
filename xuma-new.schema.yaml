@@ -200,7 +200,7 @@ stroke_reverse_lookup:
   tags: [ stroke_lookup ]
 
 punctuator:
-  import_preset: xuma.symbols
+  import_preset: xuma-new.symbols
 
 # 本节点仅用于被 __patch 指令引用
 key_bindings:

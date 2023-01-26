@@ -2,8 +2,7 @@
 
 本方案爲採用**繁體簡碼**的*新版*徐碼輸入方案，方案設計來自[rime-xuma](https://github.com/Ace-Who/rime-xuma)，碼表來自[forFudan/xuma](https://github.com/forFudan/xuma)的調整版方案。
 
-
-** ⚠⚠⚠: 由於上游刪除了`Less Z` 方案，所以此項目不再更新。如有需要，請使用其他方案。**
+**⛔⛔⛔: 由於上游刪除了`Less Z` 方案，所以此項目不再更新。如有需要，請使用其他方案。**
 
 ## 使用必看
 
@@ -55,7 +54,7 @@
 3. Q： 如何刪除用戶自造詞？
 
    A:  
-      > 删除特定用户词：输入该词编码，移动光标选中该词，敲删词键 Ctrl + Delete 或 Shift + Delete （Mac OS 用 Shift + Fn + Delete），默认还绑定了 Ctrl + K。删除整个用户词典：先退出输入法程序或算法服务， 然后删除用户目录下的 huma_trad.userdb 目录，再启动输入法。
+      > 删除特定用户词：输入该词编码，移动光标选中该词，敲删词键 Ctrl + Delete 或 Shift + Delete （Mac OS 用 Shift + Fn + Delete），默认还绑定了 Ctrl + K。删除整个用户词典：先退出输入法程序或算法服务， 然后删除用户目录下的 xuma-new.userdb 目录，再启动输入法。
 
 4. Q: 與[forFudan/xuma](https://github.com/forFudan/xuma)碼表不同之處
 

@@ -24,7 +24,7 @@ schema:
   requirements: |
     - luna_pinyin
     - stroke
-    - xuma/charset_fileter.lua
+    - xuma/charset.lua
     - xuma/charset/National.lua
     - xuma/postpone_fullcode.lua
     - xuma/single_char_only.lua
